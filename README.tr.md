@@ -2,11 +2,11 @@
 
 # Workflow
 
-**İşe alımı ve insan yönetimini tek yerde yürütün.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Workflow — Recruitment & HR; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="Workflow — ürün görsel sunumu" />
+
+**İşe alımı ve insan yönetimini tek yerde yürütün.**
 
 [![Website](https://img.shields.io/badge/workflow.mk-Official_Website-1476e8?style=for-the-badge)](https://workflow.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://workflow.mk/)
@@ -73,7 +73,7 @@ Workflow ATS işe alımını ve İK yönetimini AI analizleri ile raporlara bağ
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [workflow.mk](https://workflow.mk/) |
-| Kategori | Recruitment & HR |
+| Kategori | AI analizi ve raporlu ATS ve İK |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -97,5 +97,4 @@ Sunum kaynakları: [1](https://workflow.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
